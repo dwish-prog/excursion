@@ -1,0 +1,14 @@
+header
+  h1 Discover
+  a download
+main
+  banner
+    iPhone animation
+  div text
+    travel guide
+    excursion remembers
+   div image
+footer
+  logo
+  coming soon
+  a download
